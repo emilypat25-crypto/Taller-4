@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+sitemap: https://cambiar_url.com/sitemap.xml
